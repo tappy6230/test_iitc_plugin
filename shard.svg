@@ -1,0 +1,20 @@
+         <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="29.6647mm" height="25.6789mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+             viewBox="0 0 1247.21 1079.63"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+             <defs>
+                 <style type="text/css">
+                     <![CDATA[
+                         .str0 {stroke:#373435;stroke-width:8.41;stroke-miterlimit:22.9256}
+                         .fil2 {fill:___COLOR_2___}
+                         .fil1 {fill:___COLOR_1___}
+                     ]]>
+                 </style>
+             </defs>
+             <g id="Layer_x0020_1">
+                 <polygon class="fil1 str0" points="78.03,39.11 1181.69,27.99 736.66,395.13 "/>
+                 <polygon class="fil1 str0" points="52.25,54.52 738.36,401.29 664.2,1012.22 "/>
+                 <polygon class="fil1 str0" points="1164.97,72.52 743.69,408.92 659.16,1014.66 "/>
+                 <path class="fil2" d="M141.48 128.1l562.63 294.43 -74 494.9 -488.63 -789.33zm966.49 -0.05l-341.04 294.36 -79.83 493.91 420.86 -788.26zm-945.26 -53.95l930.92 -11.83 -357.19 296.81 -573.73 -284.99zm-162.7 -53.56l1247.21 -20.53 -589.3 1079.63 -657.9 -1059.1z"/>
+             </g>
+         </svg>
