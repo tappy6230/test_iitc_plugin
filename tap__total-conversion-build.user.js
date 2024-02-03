@@ -14,7 +14,7 @@
 // @icon64         https://iitc.app/extras/plugin-icons/total-conversion-build-64.png
 // @grant          none
 // ==/UserScript==
-
+// modify shard ICON @tappy6230
 function wrapper(plugin_info) {
 // ensure plugin framework is there, even if iitc is not yet loaded
 if(typeof window.plugin !== 'function') window.plugin = function() {};
