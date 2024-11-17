@@ -3612,7 +3612,7 @@ window.artifact.updateLayer = function() {
 
       } else if (data[type].fragments) {
         // fragment(s) at portal
-/*
+
         var iconUrl = '//commondatastorage.googleapis.com/ingress.com/img/map_icons/marker_images/'+type+'_shard.png'
         var iconSize = 60/2;
         var opacity = 0.6;
@@ -3622,7 +3622,7 @@ window.artifact.updateLayer = function() {
           iconSize: [iconSize,iconSize],
           iconAnchor: [iconSize/2,iconSize/2],
         });
-*/
+/*
      var iconUrl = '//bbnest.sakura.ne.jp/ice/abaddon1_shard.png'
      var iconSize = 60/1;
      var opacity = 0.6;
@@ -3632,7 +3632,7 @@ window.artifact.updateLayer = function() {
        iconSize: [iconSize,iconSize],
        iconAnchor: [iconSize/2,iconSize/1],
      });
-
+*/
         var marker = L.marker (latlng, {icon: icon, interactive: false, keyboard: false, opacity: opacity });
 
         artifact._layer.addLayer(marker);
